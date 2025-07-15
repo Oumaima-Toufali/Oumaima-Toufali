@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Oumaima Toufali (updated GIF) -->
 
-<h1 align="center">👋 Hello, I'm Oumaima Toufali – Data Scientist & Cloud Enthusiast</h1>
+<h1 align="center">👋 Hello, I'm Oumaima Toufali – Data Scientist & Cloud Computing Enthusiast</h1>
 
 
 
