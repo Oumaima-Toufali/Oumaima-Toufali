@@ -2,19 +2,17 @@
 
 <h1 align="center">👋 Hello, I'm Oumaima Toufali – Data Scientist & Cloud Enthusiast</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" alt="Elegant AI/Data GIF">
-</p>
+
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🔬 I'm a **Data Scientist** passionate about solving real-world problems with data.
-- ☁️ Specialized in **cloud computing**, MLOps, and scalable data engineering.
-- 📊 I work with tools like Python, Jupyter, and machine learning libraries to build smart solutions.
-- 🚀 Exploring **CI/CD**, **Docker**, **Kubernetes**, and cloud platforms like **AWS** and **GCP**.
-- 🤝 Always open to collaboration, learning, and sharing knowledge!
+-  I'm a **Data Scientist** passionate about solving real-world problems with data.
+-  Specialized in **cloud computing**, MLOps, and scalable data engineering.
+-  I work with tools like Python, Jupyter, and machine learning libraries to build smart solutions.
+-  Exploring **CI/CD**, **Docker**, **Kubernetes**, and cloud platforms like **AWS** and **GCP**.
+-  Always open to collaboration, learning, and sharing knowledge!
 
 ---
 
