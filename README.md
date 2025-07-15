@@ -1,9 +1,9 @@
-<!-- GitHub Profile README for Oumaima Toufali -->
+<!-- GitHub Profile README for Oumaima Toufali (updated GIF) -->
 
 <h1 align="center">👋 Hello, I'm Oumaima Toufali – Data Scientist & Cloud Enthusiast</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Data Science GIF">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" alt="Elegant AI/Data GIF">
 </p>
 
 ---
@@ -32,7 +32,6 @@
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat)
@@ -52,6 +51,5 @@
 
 ## 🌐 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/oumaimatoufali) *(à modifier si lien différent)*
-- 📫 Email: oumaima@example.com *(à remplacer par ton adresse si tu veux la rendre publique)*
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oumaima-toufali)
+- 📫 Email: oumaimatou2012@gmail.com
