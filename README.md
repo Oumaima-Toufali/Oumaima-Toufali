@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumaimatoufali&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumaimatoufali&theme=tokyonight" alt="GitHub Streak">
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/oumaima-toufali)
