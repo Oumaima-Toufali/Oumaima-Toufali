@@ -23,7 +23,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![Tensorflow](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat)
 
 ### ☁️ Cloud & DevOps
@@ -38,4 +38,4 @@
 ## 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/oumaima-toufali)
-- 📫 Email: oumaimatou2012@gmail.com
+- 📫 Email: toufalioumaima@gmail.com
