@@ -38,6 +38,7 @@
 
 🤖 [AI Data Analyst Agent](https://github.com/Oumaima-Toufali/AI-Data-Analyst-Agent) – FastAPI + Streamlit app for automated EDA, data cleaning, and visualization powered by GPT-4.1 & LangChain  
 
+
 📈 [Microsoft Stock Forecasting](https://github.com/Oumaima-Toufali/msft_forecasting_Arima-DL_models) – Time series forecasting with ARIMA, RNN & LSTM for financial market predictions  
 
 💬 [ChatGPT Reviews Sentiment Analysis](https://github.com/Oumaima-Toufali/NLP-Sentiment-Analysis) – NLP classification using RNN, LSTM, GRU & fine-tuned BERT for sentiment analysis  
