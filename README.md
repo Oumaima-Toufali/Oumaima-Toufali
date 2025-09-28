@@ -41,7 +41,7 @@
 
 📈 [Microsoft Stock Forecasting](https://github.com/Oumaima-Toufali/msft_forecasting_Arima-DL_models) – Time series forecasting with ARIMA, RNN & LSTM for financial market predictions  
 
-💬 [ChatGPT Reviews Sentiment Analysis](https://github.com/Oumaima-Toufali/NLP-Sentiment-Analysis) – NLP classification using RNN, LSTM, GRU & fine-tuned BERT for sentiment analysis  
+💬 [ChatGPT Reviews Sentiment Analysis](https://github.com/Oumaima-Toufali/chatgpt_reviews_NLP_analysis) – NLP classification using RNN, LSTM, GRU & fine-tuned BERT for sentiment analysis  
 
 🏥 [Federated Learning for Early Kidney Failure Detection](https://github.com/Oumaima-Toufali/Federated-Learning-Kidney-Diagnosis) – Privacy-preserving ML with TensorFlow, Docker & FlaskAPI for secure healthcare diagnostics  
 
