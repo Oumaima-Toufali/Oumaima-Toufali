@@ -106,6 +106,15 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 - Implemented **serverless AWS Lambda** functions for intelligent automation
 - **Tech Stack:** ESP32, MQTT, AWS IoT Core, AWS Lambda, Python
 
+### 🌦️ [Weather Forecasting with Real-Time Streaming](https://github.com/Oumaima-Toufali/Weather-Forecasting-Streaming)
+**End-to-end real-time weather prediction system with anomaly detection**
+- Built **real-time data pipeline** using **Apache Kafka** and **Spark Streaming** for live weather data processing
+- Implemented **time series forecasting models** (LSTM, ARIMA, Transformer) for short-term predictions (+1h, +3h, +6h)
+- Developed **anomaly detection system** to identify extreme weather patterns with >80% precision
+- Created interactive **Streamlit dashboard** with real-time alerts and visualization
+- Achieved <2s latency from data ingestion to prediction display
+- **Tech Stack:** Apache Kafka, Spark Streaming, PyTorch, PostgreSQL, Streamlit, Docker, Open-Meteo API
+
 ---
 
 ## 📊 GitHub Statistics
