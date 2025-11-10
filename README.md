@@ -92,6 +92,7 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 - Leveraged attention mechanisms to capture long-range dependencies and enhance model performance
 - **Tech Stack:** Python, TensorFlow, BERT, NLTK
 
+
 ### 🏥 [Federated Learning for Kidney Failure Detection](https://github.com/Oumaima-Toufali/Federated-Learning-Kidney-Diagnosis)
 **Privacy-preserving machine learning for healthcare diagnostics**
 - Designed **federated learning architecture** enabling multi-hospital collaboration
