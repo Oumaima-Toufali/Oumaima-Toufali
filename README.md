@@ -20,8 +20,8 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 
 **Core Expertise:**
 - 🧠 Machine Learning & Deep Learning (NLP, Computer Vision, Time Series)
-- 🤖 LLM Integration & Agent-based Systems (LangChain, GPT-4)
-- ☁️ Cloud Architecture & MLOps (AWS, Docker, CI/CD)
+- 🤖 LLM Integration & Agent-based Systems (LangChain, OpenAI API)
+- ☁️ Cloud Architecture & MLOps (AWS Fundamentals, Docker, CI/CD)
 - 🔒 Privacy-Preserving ML (Federated Learning)
 - 📊 End-to-end Data Pipeline Development
 
@@ -89,8 +89,8 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 **NLP classification with state-of-the-art transformer models**
 - Built sentiment classification pipeline using **RNN, LSTM, GRU** architectures
 - Fine-tuned **BERT** for improved accuracy on domain-specific text
-- Comprehensive preprocessing and feature engineering for text data
-- **Tech Stack:** Python, TensorFlow, Hugging Face Transformers, BERT, NLTK
+- Leveraged attention mechanisms to capture long-range dependencies and enhance model performance
+- **Tech Stack:** Python, TensorFlow, BERT, NLTK
 
 ### 🏥 [Federated Learning for Kidney Failure Detection](https://github.com/Oumaima-Toufali/Federated-Learning-Kidney-Diagnosis)
 **Privacy-preserving machine learning for healthcare diagnostics**
