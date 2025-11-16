@@ -116,19 +116,6 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 - Achieved <2s latency from data ingestion to prediction display
 - **Tech Stack:** Apache Kafka, PyTorch, PostgreSQL, Grafana, Docker, Open-Meteo API
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oumaima-Toufali&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaima-Toufali&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oumaima-Toufali&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
