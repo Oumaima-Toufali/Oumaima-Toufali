@@ -66,17 +66,17 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 
 ### 🤖 [AI Data Analyst Agent](https://github.com/Oumaima-Toufali/AI-Data-Analyst-Agent)
 **Intelligent data analysis system with automated insights generation**
-- Built an AI agent powered by **OpenAI GPT-4 & LangChain** for automated exploratory data analysis
+- Built an AI agent powered by **GPT-4 & LangChain** for automated exploratory data analysis
 - Developed **FastAPI backend** and **Streamlit interface** for seamless user interaction
 - Implemented **Docker containerization** with **CI/CD pipeline via Jenkins**
 - **Tech Stack:** Python, FastAPI, Streamlit, LangChain, GPT-4, Docker, Jenkins
 
 ### 📊 [LabLens – Medical Data Intelligence Platform](https://github.com/Oumaima-Toufali/LabLens)
 **Full-stack AI platform for blood test analysis**
-- Created **GPT-5-powered agent** that translates natural language queries into executable SQL/DSL
+- Created **GPT-4.1-powered agent** that translates natural language queries into executable SQL/DSL
 - Designed **FastAPI + React architecture** with **SQLModel ORM** and **DuckDB** analytics engine
 - Delivers explainable, actionable medical insights through conversational interface
-- **Tech Stack:** FastAPI, React, SQLModel, LangChain, DuckDB, GPT-5
+- **Tech Stack:** FastAPI, React, SQLModel, LangChain, DuckDB, GPT-4.1
 
 ### 📈 [Microsoft Stock Price Forecasting](https://github.com/Oumaima-Toufali/msft_forecasting_Arima-DL_models)
 **Advanced time series prediction using classical & deep learning approaches**
@@ -114,7 +114,7 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 - Developed **anomaly detection system** to identify extreme weather patterns with >80% precision
 - Created interactive **Grafana dashboard** with real-time alerts, monitoring and visualization
 - Achieved <2s latency from data ingestion to prediction display
-- **Tech Stack:** Apache Kafka, PyTorch, PostgreSQL, Grafana, Docker, Open-Meteo API
+- **Tech Stack:** Apache Kafka, PyTorch, Grafana, Docker, Open-Meteo API
 
 
 ---
