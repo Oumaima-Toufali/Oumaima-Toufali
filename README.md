@@ -100,12 +100,11 @@ Engineering student specializing in **Data Science & Cloud Computing** at ENSAO,
 - Deployed with **Docker** and monitored using **Grafana** for real-time performance tracking
 - **Tech Stack:** TensorFlow, Flask API, Docker, Grafana, Federated Learning
 
-### 💡 [Smart Public Lighting System](https://github.com/Oumaima-Toufali/Smart-Lighting-IoT)
+### 💡 [Smart Public Lighting System](https://github.com/Oumaima-Toufali/Smart-Public-Lighting-System-)
 **IoT solution with cloud-based autonomous management**
 - Developed adaptive lighting system using **ESP32** with **PIR & LDR sensors**
-- Integrated **MQTT protocol** with **AWS IoT Core** for scalable device management
-- Implemented **serverless AWS Lambda** functions for intelligent automation
-- **Tech Stack:** ESP32, MQTT, AWS IoT Core, AWS Lambda, Python
+- Integrated **MQTT protocol** with **ThingsBoard** for scalable device management
+- **Tech Stack:** ESP32, MQTT, ThingsBoard, Python
 
 ### 🌦️ [Weather Forecasting with Real-Time Streaming](https://github.com/Oumaima-Toufali/Weather-Forecasting-Streaming)
 **End-to-end real-time weather prediction system with anomaly detection**
