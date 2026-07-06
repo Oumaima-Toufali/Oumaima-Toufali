@@ -101,7 +101,7 @@ Built **O322**, an AI-powered Technology Due Diligence Platform leveraging multi
 
 - Designed a **LangGraph-based multi-agent architecture** coordinating specialized AI agents for security, code quality, and infrastructure analysis
 - Integrated **Claude** with **Semgrep, Trivy, Radon, and Lizard** to produce explainable, scored technology risk assessments
-- Built a **deterministic scoring engine** (Fusion V4) combining tool outputs and LLM reasoning with a calibrated deduction kernel
+- Built a **deterministic scoring engine** combining tool outputs and LLM reasoning with a calibrated deduction kernel
 - Deployed scalable backend services using **FastAPI, Celery, Redis, Supabase, and Docker**
 - Generated structured **PDF audit reports** with blockchain-anchored certificates (Polygon Amoy Testnet)
 
