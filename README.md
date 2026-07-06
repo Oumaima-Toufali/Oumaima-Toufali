@@ -34,8 +34,8 @@ Recently, I developed **O322**, an AI-powered Technology Due Diligence Platform 
 
 ## 🚀 Core Expertise
 
-- 🤖 Large Language Models (Claude, GPT-4, LangChain, LangGraph)
-- 🧠 Multi-Agent AI Systems & Workflow Orchestration
+- 🤖 Large Language Models (Claude, OpenAI)
+- 🧠 Multi-Agent AI Systems & Workflow Orchestration (LangGraph, LangChain)
 - ⚙️ FastAPI, REST APIs & Backend Engineering
 - 🐳 Docker, Redis, Celery & Distributed Systems
 - 📊 Machine Learning & Deep Learning
@@ -100,12 +100,12 @@ Built **O322**, an AI-powered Technology Due Diligence Platform leveraging multi
 **Multi-agent AI platform for automated startup technology assessment.**
 
 - Designed a **LangGraph-based multi-agent architecture** coordinating specialized AI agents for security, code quality, and infrastructure analysis
-- Integrated **Claude & GPT-4** with **Semgrep, Trivy, Radon, and Lizard** to produce explainable, scored technology risk assessments
+- Integrated **Claude** with **Semgrep, Trivy, Radon, and Lizard** to produce explainable, scored technology risk assessments
 - Built a **deterministic scoring engine** (Fusion V4) combining tool outputs and LLM reasoning with a calibrated deduction kernel
 - Deployed scalable backend services using **FastAPI, Celery, Redis, Supabase, and Docker**
 - Generated structured **PDF audit reports** with blockchain-anchored certificates (Polygon Amoy Testnet)
 
-**Tech Stack:** LangGraph · Claude · GPT-4.1 · FastAPI · Docker · Redis · Celery · Supabase · Semgrep · Trivy · ReportLab · Web3.py
+**Tech Stack:** LangGraph · Claude · FastAPI · Docker · Redis · Celery · Supabase · Semgrep · Trivy · ReportLab · Web3.py
 
 ---
 
