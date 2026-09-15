@@ -155,6 +155,21 @@ Built **O322**, an AI-powered Technology Due Diligence Platform leveraging multi
 **Tech Stack:** Python · TensorFlow · Statsmodels · Pandas · Matplotlib
 
 ---
+### 🌦️ [Weather Forecaster – Real-Time ML Streaming Platform](https://github.com/Oumaima-Toufali/Weather-Forecasting-with-Real-Time-Streaming)
+
+**Real-time weather forecasting platform combining data streaming, feature engineering, and machine learning.**
+
+* Built a **real-time data ingestion pipeline** consuming weather data from the Open-Meteo API and publishing events through **Apache Kafka** in KRaft mode
+* Designed a **multi-stage streaming architecture** with Kafka topics for raw, cleaned, feature-engineered, and prediction data
+* Implemented automated **data normalization, validation, and feature engineering**, including lag features, rolling statistics, and temporal deltas
+* Developed and compared **Random Forest, XGBoost, and LSTM** models for short-term temperature forecasting (1h, 3h, 6h)
+* Implemented **probabilistic forecasting** with P10/P50/P90 prediction quantiles
+* Used **Avro/FastAvro schema validation** to enforce structured data contracts across streaming stages
+* Built a **Streamlit + Plotly dashboard** for real-time monitoring and visualization of weather predictions
+* Designed an end-to-end architecture covering **data ingestion, stream processing, feature engineering, model training, and ML serving**
+
+**Tech Stack:** Python · Apache Kafka · KRaft · Pandas · PyArrow · Avro · Scikit-learn · XGBoost · TensorFlow · LSTM · Streamlit · Plotly · Parquet
+----
 
 ## 🎓 Certifications
 
