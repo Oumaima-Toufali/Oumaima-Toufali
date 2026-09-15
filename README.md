@@ -169,6 +169,8 @@ Built **O322**, an AI-powered Technology Due Diligence Platform leveraging multi
 * Designed an end-to-end architecture covering **data ingestion, stream processing, feature engineering, model training, and ML serving**
 
 **Tech Stack:** Python · Apache Kafka · KRaft · Pandas · PyArrow · Avro · Scikit-learn · XGBoost · TensorFlow · LSTM · Streamlit · Plotly · Parquet
+
+
 ----
 
 ## 🎓 Certifications
